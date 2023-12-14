@@ -47,7 +47,7 @@ const getToken =()=>{
     return (
         <form className="withdraw-form" onSubmit={getStakeToken}>
           <label>Stake Token Address : <br/> 0xB4D2095B7EF378F591b1B22a03Db7025708F562D</label>
-  <label>Reward Token Address : <br/>0xB4D2095B7EF378F591b1B22a03Db7025708F562D</label>
+  <label>Reward Token Address : <br/>0x1294D1001408323d1bbf6F2F08A5545FbB47d9B2</label>
         
             <label>Enter Token Amount:</label>
             <input type="text" ref={getStakeAmountRef} />
